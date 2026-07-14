@@ -1,0 +1,105 @@
+{
+  "app": {
+    "name": "Kevin Andy Finance",
+    "tagline": "Tantano sy takatra ny volanao"
+  },
+  "nav": {
+    "dashboard": "Tabilao",
+    "transactions": "Fifampiraharahana",
+    "analytics": "Famakafakana",
+    "settings": "Fikirana"
+  },
+  "dashboard": {
+    "title": "Tabilao",
+    "subtitle": "Fijerena ankapobeny ny volanao",
+    "totalBalance": "Totalin'ny Vola",
+    "totalIncome": "Totalin'ny Fidirana",
+    "totalExpenses": "Totalin'ny Fandaniana",
+    "savingsRate": "Tahan'ny Fitahirizana",
+    "recentTransactions": "Fifampiraharahana Vao Haingana",
+    "viewAll": "Jereo daholo",
+    "noTransactions": "Tsy mbola misy fifampiraharahana",
+    "startTracking": "Atombory ny fanaraha-maso ny volanao amin'ny alalan'ny fifampiraharahana voalohany."
+  },
+  "transactions": {
+    "title": "Fifampiraharahana",
+    "subtitle": "Tantano ny fidirana sy ny fandaniana",
+    "add": "Hanampy Fifampiraharahana",
+    "edit": "Hanova Fifampiraharahana",
+    "delete": "Hamafa Fifampiraharahana",
+    "search": "Hitady fifampiraharahana...",
+    "filter": "Sivana",
+    "all": "Rehetra",
+    "income": "Fidirana",
+    "expense": "Fandaniana",
+    "empty": "Tsy misy fifampiraharahana hita",
+    "emptyDescription": "Ampio fifampiraharahana na ovay ny sivana mba hahitana vokatra.",
+    "deleteConfirm": "Tena te-hamafa ity fifampiraharahana ity ve ianao?",
+    "deleteWarning": "Tsy azo averina ity hetsika ity.",
+    "fields": {
+      "title": "Lohateny",
+      "amount": "Vola",
+      "category": "Sokajy",
+      "date": "Daty",
+      "type": "Karazana",
+      "notes": "Fanamarihana"
+    },
+    "placeholders": {
+      "title": "oh: Fividianana sakafo",
+      "amount": "0",
+      "notes": "Fanamarihana tsy voatery..."
+    },
+    "actions": {
+      "save": "Tehirizo",
+      "cancel": "Ajanona",
+      "delete": "Fafao",
+      "edit": "Ovao",
+      "confirm": "Hamarino"
+    }
+  },
+  "analytics": {
+    "title": "Famakafakana",
+    "subtitle": "Fahatakarana ny fomba fitantananao ny vola",
+    "expenseDistribution": "Fizarana ny Fandaniana",
+    "incomeVsExpense": "Fidirana vs Fandaniana",
+    "monthlyTrends": "Fironana Isam-Bolana",
+    "savingsEvolution": "Fivoaran'ny Fitahirizana",
+    "noData": "Tsy ampy ny angona",
+    "noDataDescription": "Ampio fifampiraharahana bebe kokoa mba hahitana famakafakana sy fironana."
+  },
+  "settings": {
+    "title": "Fikirana",
+    "subtitle": "Amboary ny traikefa anao",
+    "language": "Fiteny",
+    "languageDescription": "Safidio ny fiteny tianao",
+    "currency": "Vola",
+    "currencyDescription": "Safidio ny vola aseho",
+    "theme": "Lohahevitra",
+    "themeDescription": "Miovaova eo amin'ny maizina sy ny mazava",
+    "light": "Mazava",
+    "dark": "Maizina",
+    "english": "Anglisy",
+    "malagasy": "Malagasy"
+  },
+  "categories": {
+    "food": "Sakafo",
+    "transport": "Fitaterana",
+    "shopping": "Fividianana",
+    "salary": "Karama",
+    "business": "Orinasa",
+    "other": "Hafa"
+  },
+  "validation": {
+    "titleRequired": "Ilaina ny lohateny",
+    "titleTooLong": "Tsy mihoatra ny 100 litera ny lohateny",
+    "amountRequired": "Ampidiro vola marina mihoatra ny 0",
+    "typeRequired": "Safidio ny karazana fifampiraharahana",
+    "categoryRequired": "Safidio ny sokajy",
+    "dateRequired": "Ilaina ny daty"
+  },
+  "common": {
+    "loading": "Eo am-paka...",
+    "error": "Nisy olana nitranga",
+    "retry": "Andramo indray"
+  }
+}
