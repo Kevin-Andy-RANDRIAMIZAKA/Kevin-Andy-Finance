@@ -1,51 +1,82 @@
-# Kevin Andy Finance
+# 🇲🇬 Ariary Tracker
 
-A premium bilingual personal finance tracker built with React, Vite, and Tailwind CSS.
+A personal finance tracking dashboard built for Malagasy users, focused on managing and visualizing money using the Malagasy Ariary (MGA) currency.
 
-## Quick Start
+🚧 **Project Status:** Currently under development.
+
+## 📌 About
+
+Ariary Tracker is a modern web application designed to help users track their finances in a simple and intuitive way.
+
+The project focuses on creating a local-first financial tool adapted to Madagascar, with the Malagasy Ariary as the main currency.
+
+## ✨ Features
+
+- 🇲🇬 Malagasy Ariary (MGA) currency support
+- 📊 Financial dashboard interface
+- 💰 Money tracking system
+- 📈 Animated financial statistics
+- 📱 Responsive design
+- ⚡ Fast and modern user experience
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- JavaScript / TypeScript
+- Tailwind CSS
+- Framer Motion
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/ariary-tracker.git
+```
+
+### Install dependencies
 
 ```bash
 npm install
+```
+
+### Run the development server
+
+```bash
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173)
+The application will run locally at:
 
-## Build
-
-```bash
-npm run build
-npm run preview
+```
+http://localhost:5173
 ```
 
-## Deploy to Vercel
+## 📂 Project Structure
 
-1. Push the project to GitHub
-2. Import the repository at [vercel.com](https://vercel.com)
-3. Vercel auto-detects Vite — no extra configuration needed
-4. Deploy
-
-Or use the Vercel CLI:
-
-```bash
-npm i -g vercel
-vercel
+```
+ariary-tracker/
+│
+├── src/        # Application source code
+├── public/     # Static assets
+├── package.json
+├── vite.config.js
+└── README.md
 ```
 
-## Tech Stack
+## 🔮 Future Improvements
 
-- React + Vite
-- Tailwind CSS
-- Framer Motion
-- Recharts
-- react-i18next
-- lucide-react
+- User accounts
+- Data persistence
+- Advanced financial insights
+- More customization options
+- Mobile application version
 
-## Languages
+## 📍 Status
 
-- English
-- Malagasy
+This project is currently in active development.
 
-## License
+---
 
-MIT
+Created by **Kevin Andy RANDRIAMIZAKA**
